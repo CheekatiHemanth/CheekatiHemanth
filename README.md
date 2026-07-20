@@ -1,4 +1,4 @@
-# Hemanth-Cheekati
+# HemanthCheekati
 Hi, I'm Hemanth Cheekati 
 An aspiring "Security Engineer" and "Blue Teamer" focused on automation, defensive architecture, and threat detection. I enjoy building tools that solve real-world security challenges.
 Tech & Tools I'm Learning/Using
